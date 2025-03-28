@@ -1,0 +1,4 @@
+Simba, 3
+Shenzi, 5
+Shere Khan, 4
+Baloo, 6

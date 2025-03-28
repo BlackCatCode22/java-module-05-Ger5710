@@ -1,0 +1,32 @@
+Animal Report
+=============
+
+Name: Simba, Species: Lion, Age: 3, Behavior: Roars loudly! 🦁
+Name: Shenzi, Species: Hyena, Age: 5, Behavior: Laughs mischievously! 😂
+Name: Shere Khan, Species: Tiger, Age: 4, Behavior: Growls fiercely! 🐯
+Name: Baloo, Species: Bear, Age: 6, Behavior: Goes into hibernation! 🐻💤
+
+Species: Lion
+Total Count: 1
+Animals:
+ - Simba, Age: 3
+
+
+Species: Hyena
+Total Count: 1
+Animals:
+ - Shenzi, Age: 5
+
+
+Species: Bear
+Total Count: 1
+Animals:
+ - Baloo, Age: 6
+
+
+Species: Tiger
+Total Count: 1
+Animals:
+ - Shere Khan, Age: 4
+
+End of Report
